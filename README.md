@@ -1,6 +1,6 @@
 # case-analyser
 This is a simple case-analyser LLM based streamlit application.
-
+- [Demo](https://youtu.be/r-lHNIVA668)
 ## Requirements
 - Python: 3.10.12
 - [Groq API](https://console.groq.com/keys): Fast AI Inference Engine (LPU based)
