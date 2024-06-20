@@ -1,0 +1,9 @@
+case 1:
+description:
+Jane Smith, a Senior Marketing Manager at ABC Corporation for the past five years, has requested a 12-week leave under the Family and Medical Leave Act (FMLA) to care for her newborn and recover from childbirth. The FMLA entitles eligible employees to up to twelve workweeks of unpaid, job-protected leave for specified family and medical reasons, including the birth and care of a newborn child. Given her five-year tenure and full-time status, Jane meets the FMLA eligibility criteria, which require an employee to have worked for the employer for at least 12 months and logged at least 1,250 hours over the past 12 months.
+
+case 2:
+description:
+John Doe, a software engineer at XYZ Tech Solutions for three years, has filed a complaint of employment discrimination. Despite his qualifications and consistent performance, John has been repeatedly passed over for promotions in favor of less experienced colleagues. John believes that his race has been a factor in these decisions, as he has witnessed and experienced subtle racial biases from his supervisor and certain coworkers. This situation has created a hostile work environment, prompting John to seek legal action under the Civil Rights Act of 1964, which prohibits employment discrimination based on race, color, religion, sex, or national origin.
+
+
